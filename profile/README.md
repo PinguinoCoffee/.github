@@ -7,7 +7,7 @@
 
 [![Funding](https://img.shields.io/badge/Startup_Funding-$0_USD-black?style=for-the-badge)](#funding)
 [![Endorsed](https://img.shields.io/badge/Endorsed_by-Mrs._Monduy-black?style=for-the-badge)](#endorsement)
-[![Status](https://img.shields.io/badge/Status-Operating-success?style=for-the-badge)](#about)
+[![Status](https://img.shields.io/badge/Status-Not_Taken_Down_🤯-success?style=for-the-badge)](#about)
 
 *An independent collection of projects, experiments, and ideas.*
 
